@@ -83,6 +83,8 @@ a {
 .benefits {
   padding: 100px 0 80px;
   width: 960px;
+       margin: 0 auto;
+
 }
 
 .container h1 {

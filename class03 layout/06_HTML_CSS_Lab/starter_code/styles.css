@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box: ;
+}
+
+a {
+	color: black;
+	text-transform: none;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+    }
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+.wrapper {
+	width: 1288px;
+}
+
+.headline {
+	background-color: #000;
+}
+
+header {
+	background-color: #000;
+	margin-top: 0;
+}
+
+h1, .main-menu {
+	float: left;
+}
+
+.image {
+
+}
+
+.image-box {
+
+}
+
+.actions {
+
+}
+
+.module {
+
+}
+
+.main-menu a, ul {
+	color: #fff;
+}
+
